@@ -1,5 +1,7 @@
 # Signals and Signal Conditioning — What Happens After the Sensor Speaks
 
+[📄👾 Open Interactive Article 05](https://qurvon.github.io/Industrial-Automation-from-First-Principles/01-fundamentals/07-signals-and-signal-conditioning-1.html)
+
 > A physical quantity becomes useful to an automation system only after it has been represented as a signal that can be transmitted, interpreted, and processed.
 
 Chapter 06 explained how physical reality gets detected. This chapter explains what happens *next* — how that raw, weak, often noisy electrical response is transported, cleaned up, standardized, and finally turned into a number the PLC can act on.
