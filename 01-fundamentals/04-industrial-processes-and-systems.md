@@ -1,6 +1,6 @@
 # Industrial Processes and Systems
 
-[📄👾 Open Interactive Article 04](https://qurvon.github.io/industrial-automation-from-first-principles/01-fundamentals/04-industrial-processes-and-systems-2.html)
+[📄👾 Open Interactive Article 04](https://qurvon.github.io/Industrial-Automation-from-First-Principles/01-fundamentals/04-industrial-processes-and-systems-2.html)
 
 > Before learning sensors, PLCs, control logic, or networks — understand the physical process those technologies are trying to control.
 
