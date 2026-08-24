@@ -1,6 +1,6 @@
 # Where Did Industrial Automation Begin? — A History
 
-[📄👾 Open Interactive Article 02](https://qurvon.github.io/industrial-automation-from-first-principles/01-fundamentals/02-where-did-industrial-automation-begin-history-2.html)
+[📄👾 Open Interactive Article 02](https://qurvon.github.io/Industrial-Automation-from-First-Principles/01-fundamentals/02-where-did-industrial-automation-begin-history-2.html)
 
 > Industrial automation did not begin with PLCs, robots, or computers.
 > It evolved step by step — through mechanical machines, feedback mechanisms, electrical control, electronics, and finally computing and networked intelligence.
