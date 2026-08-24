@@ -1,6 +1,6 @@
 # What Is Industrial Automation?
 
-[🚀 Open Interactive Article 01](https://qurvon.github.io/industrial-automation-from-first-principles/01-fundamentals/01-what-is-industrial-automation.html)
+[🚀 Open Interactive Article 01](https://qurvon.github.io/Industrial-Automation-from-First-Principles/01-fundamentals/01-what-is-industrial-automation.html)
 
 > **QURVON Research Series — Article 01**
 > Foundations of Industrial Automation, built from first principles.
