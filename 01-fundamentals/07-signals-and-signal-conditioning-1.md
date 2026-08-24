@@ -1,6 +1,6 @@
 # Signals and Signal Conditioning — What Happens After the Sensor Speaks
 
-[📄👾 Open Interactive Article 05](https://qurvon.github.io/Industrial-Automation-from-First-Principles/01-fundamentals/07-signals-and-signal-conditioning.html)
+[📄👾 Open Interactive Article 07](https://qurvon.github.io/Industrial-Automation-from-First-Principles/01-fundamentals/07-signals-and-signal-conditioning.html)
 
 > A physical quantity becomes useful to an automation system only after it has been represented as a signal that can be transmitted, interpreted, and processed.
 
