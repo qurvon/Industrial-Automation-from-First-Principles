@@ -1,5 +1,7 @@
 # Analog vs. Digital — Two Ways of Representing Reality
 
+[📄👾 Open Interactive Article 07](https://qurvon.github.io/Industrial-Automation-from-First-Principles/01-fundamentals/07-signals-and-signal-conditioning.html)
+
 > The physical world is fundamentally continuous, but computers process information in discrete form.
 
 Chapter 07 followed a signal from a raw sensor output through conditioning to a standardized 4–20 mA loop. This chapter asks a more fundamental question underneath all of that: what does it actually mean for information to be *analog*, what does it mean for it to be *digital*, and how — precisely — does a continuous physical quantity like temperature become a number sitting in a PLC register?
