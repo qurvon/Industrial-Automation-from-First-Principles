@@ -1034,7 +1034,7 @@ REAL WORLD
 
 ---
 
-**Previous:** [04 — Industrial Processes and Systems](04-industrial-processes-and-systems.md)
+**Previous:** [05-measurement and instrumentation fundamentals](05-measurement-and-instrumentation-fundamentals-2.md)
 
-**Next:** [06 — Actuators and Final Control Elements](06-actuators-and-final-control-elements.md)
+**Next:** [07-signals and signal conditioning-1](07-signals-and-signal-conditioning-1.md)
 
