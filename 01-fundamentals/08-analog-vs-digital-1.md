@@ -818,36 +818,7 @@ PHYSICAL REALITY
 
 ---
 
-## Suggested Repository Structure for This Chapter
+**Priveous:** [06 — signals and signal conditioning ](07-signals-and-signal-conditioning-1.md)
 
-```
-01-fundamentals/
-│
-├── 07-signals-and-signal-conditioning.md
-├── 08-analog-vs-digital.md   ← this file
-│
-└── assets/
-    └── 08-analog-vs-digital/
-        ├── images/
-        │   ├── adc-sampling-timing.png
-        │   ├── digital-storage-oscilloscope.jpg
-        │   ├── ti-7400-logic-gate-chip.jpg
-        │   ├── siemens-s7-200-cpu.jpg
-        │   ├── siemens-vfd.jpg
-        │   ├── pwm-duty-cycle.gif
-        │   └── rotary-encoder.jpg
-        │
-        └── animations/
-            ├── continuous-vs-discrete/
-            ├── sampling/
-            ├── aliasing/
-            ├── quantization/
-            ├── adc-lab/          (interactive: sampling rate + bit depth sliders)
-            ├── dac/
-            ├── pwm/
-            └── encoder/
-```
 
-**Notes for building this out:**
-- The single highest-value interactive element for this chapter is an **"Analog-to-Digital Lab"**: let the reader adjust sampling frequency and ADC bit depth independently on the same input waveform, and watch the reconstructed digital signal go from smooth, to visibly stepped, to outright aliased in real time.
-- Keep this chapter focused on the analog/digital distinction itself and the conversion process between them. Specific communication protocols (fieldbus, industrial Ethernet variants) and detailed actuator/drive behavior belong in their own later chapters — Chapter 09 (Actuators) picks up immediately where Section 17's VFD example leaves off.
+
