@@ -827,30 +827,16 @@ PHYSICAL REALITY
 
 ---
 
-## Suggested Repository Structure for This Chapter
+**Priveous:** [06 — Actuators and Final Control Elements](06-actuators-and-final-control-elements.md)
 
-```
-01-fundamentals/
-│
-├── 06-sensors-and-transducers.md
-├── 07-signals-and-signal-conditioning.md   ← this file
-│
-└── assets/
-    └── 07-signals-and-signal-conditioning/
-        ├── images/
-        │   ├── oscilloscope-waveform.jpg
-        │   ├── wheatstone-bridge.svg
-        │   ├── twisted-pair-cable.jpg
-        │   └── pressure-transmitter.jpg
-        │
-        └── animations/
-            ├── 4-20ma-slider.html          (drag temperature → watch mA, ADC count, °C update live)
-            ├── filtering.html               (raw noisy signal → low-pass → clean signal)
-            ├── adc-sampling.html            (continuous wave → discrete samples)
-            └── aliasing.html                (fast wave under-sampled → false slow wave)
-```
+**Next:** [08 — Analog vs Digital ](08-analog-vs-digital-1.md)
 
-**Notes for building this out:**
-- The Mermaid troubleshooting flowchart in Section 27 renders natively on GitHub.
-- The single highest-value interactive piece for this chapter is a **4–20 mA slider**: drag a temperature value and watch it propagate live through resistance → transmitter output → loop current → ADC code → engineering value — then optionally inject noise, signal loss, or a scaling error so the learner sees firsthand how each failure mode changes what the PLC reports.
-- Keep this chapter focused on the signal path itself. Full digital communication protocols (fieldbus, industrial Ethernet) and the analog-vs-digital architecture debate belong in Chapter 08, immediately next in the sequence.
+
+
+
+
+
+
+
+
+
