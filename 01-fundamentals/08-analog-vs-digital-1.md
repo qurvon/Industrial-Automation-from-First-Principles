@@ -1,6 +1,6 @@
 # Analog vs. Digital — Two Ways of Representing Reality
 
-[📄👾 Open Interactive Article 07](https://qurvon.github.io/Industrial-Automation-from-First-Principles/01-fundamentals/07-signals-and-signal-conditioning.html)
+[📄👾 Open Interactive Article 08](https://qurvon.github.io/Industrial-Automation-from-First-Principles/01-fundamentals/08-analog-vs-digital.html)
 
 > The physical world is fundamentally continuous, but computers process information in discrete form.
 
